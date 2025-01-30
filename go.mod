@@ -1,4 +1,4 @@
-module github.com/streamingfast/bstream
+module github.com/BCH-labs/bstream
 
 go 1.21
 
